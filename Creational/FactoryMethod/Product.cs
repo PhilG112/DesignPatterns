@@ -7,7 +7,7 @@ namespace DesignPatterns.Creational.FactoryMethod
     /// <summary>
     /// The Product abstract class
     /// </summary>
-    public abstract class Product
+    public interface IProduct
     {
     }
 }

@@ -7,8 +7,8 @@ namespace DesignPatterns.Creational.FactoryMethod
     /// <summary>
     /// A Concrete creator class
     /// </summary>
-    public class ConcreteCreatorB : Creator
+    public class ConcreteCreatorB : ICreator
     {
-        public override Product FactoryMethod() => new ConcreteProductB();
+        public IProduct FactoryMethod() => new ConcreteProductB();
     }
 }

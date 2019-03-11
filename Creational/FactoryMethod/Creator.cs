@@ -7,8 +7,8 @@ namespace DesignPatterns.Creational.FactoryMethod
     /// <summary>
     /// The abstract creator class
     /// </summary>
-    public abstract class Creator
+    public interface ICreator
     {
-        public abstract Product FactoryMethod();
+        IProduct FactoryMethod();
     }
 }
