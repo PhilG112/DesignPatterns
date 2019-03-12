@@ -12,7 +12,7 @@ Why not?
 
 ### Creational
 
-#### Abstract Factory
+#### [Abstract Factory](https://github.com/PhilG112/DesignPatterns/tree/master/Creational/AbstractFactory)
 
 Provide an interface for creating families of related or dependent objects without specifying their concrete classes.
 
