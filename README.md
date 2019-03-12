@@ -16,7 +16,7 @@ Why not?
 
 Provide an interface for creating families of related or dependent objects without specifying their concrete classes.
 
-#### Factory Method
+#### [Factory Method](https://github.com/PhilG112/DesignPatterns/tree/master/Creational/FactoryMethod)
 
 Define an interface for creating an object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.
 
