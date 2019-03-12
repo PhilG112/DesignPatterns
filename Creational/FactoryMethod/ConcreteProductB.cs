@@ -7,7 +7,7 @@ namespace DesignPatterns.Creational.FactoryMethod
     /// <summary>
     /// A Concrete implementation of Product
     /// </summary>
-    class ConcreteProductB : IProduct
+    public class ConcreteProductB : IProduct
     {
     }
 }
